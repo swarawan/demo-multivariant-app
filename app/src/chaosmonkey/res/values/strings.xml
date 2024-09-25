@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Chaos Monkey</string>
+    <string name="lorem">Chaos Monkey is responsible for randomly terminating instances in production to ensure that engineers implement their services to be resilient to instance failures.</string>
+</resources>
